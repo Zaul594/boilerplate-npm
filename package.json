@@ -1,8 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "zaul",
 	"dependencies": {
-		"express": "^4.14.0",
-		"author": "zaul"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
